@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @markarko
 - 👀 I’m interested in web and game development
-- 🌱 I’m currently learning express and mongodb
+- 🌱 I’m currently learning Angular alongside some back-end technologies
 - 💞️ I’m looking to collaborate on a web project with an IT company
 - 📫 Read me at markolitovchenko24@gmail.com
